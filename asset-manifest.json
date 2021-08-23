@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KanyeQuotes/static/css/main.bab0b925.chunk.css",
-    "main.js": "/KanyeQuotes/static/js/main.ae57412d.chunk.js",
-    "main.js.map": "/KanyeQuotes/static/js/main.ae57412d.chunk.js.map",
+    "main.js": "/KanyeQuotes/static/js/main.e8cf85a7.chunk.js",
+    "main.js.map": "/KanyeQuotes/static/js/main.e8cf85a7.chunk.js.map",
     "runtime-main.js": "/KanyeQuotes/static/js/runtime-main.f0b8336f.js",
     "runtime-main.js.map": "/KanyeQuotes/static/js/runtime-main.f0b8336f.js.map",
     "static/js/2.7bd6f9b2.chunk.js": "/KanyeQuotes/static/js/2.7bd6f9b2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f0b8336f.js",
     "static/js/2.7bd6f9b2.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.ae57412d.chunk.js"
+    "static/js/main.e8cf85a7.chunk.js"
   ]
 }
