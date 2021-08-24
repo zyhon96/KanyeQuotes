@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/KanyeQuotes/static/css/main.bab0b925.chunk.css",
-    "main.js": "/KanyeQuotes/static/js/main.e8cf85a7.chunk.js",
-    "main.js.map": "/KanyeQuotes/static/js/main.e8cf85a7.chunk.js.map",
-    "runtime-main.js": "/KanyeQuotes/static/js/runtime-main.f0b8336f.js",
-    "runtime-main.js.map": "/KanyeQuotes/static/js/runtime-main.f0b8336f.js.map",
-    "static/js/2.7bd6f9b2.chunk.js": "/KanyeQuotes/static/js/2.7bd6f9b2.chunk.js",
-    "static/js/2.7bd6f9b2.chunk.js.map": "/KanyeQuotes/static/js/2.7bd6f9b2.chunk.js.map",
-    "static/js/3.20e5d69c.chunk.js": "/KanyeQuotes/static/js/3.20e5d69c.chunk.js",
-    "static/js/3.20e5d69c.chunk.js.map": "/KanyeQuotes/static/js/3.20e5d69c.chunk.js.map",
+    "main.css": "/KanyeQuotes/static/css/main.8723d9b7.chunk.css",
+    "main.js": "/KanyeQuotes/static/js/main.392b5d25.chunk.js",
+    "main.js.map": "/KanyeQuotes/static/js/main.392b5d25.chunk.js.map",
+    "runtime-main.js": "/KanyeQuotes/static/js/runtime-main.15b38074.js",
+    "runtime-main.js.map": "/KanyeQuotes/static/js/runtime-main.15b38074.js.map",
+    "static/js/2.96c25410.chunk.js": "/KanyeQuotes/static/js/2.96c25410.chunk.js",
+    "static/js/2.96c25410.chunk.js.map": "/KanyeQuotes/static/js/2.96c25410.chunk.js.map",
+    "static/js/3.1a76a137.chunk.js": "/KanyeQuotes/static/js/3.1a76a137.chunk.js",
+    "static/js/3.1a76a137.chunk.js.map": "/KanyeQuotes/static/js/3.1a76a137.chunk.js.map",
     "index.html": "/KanyeQuotes/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/KanyeQuotes/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.7bd6f9b2.chunk.js.LICENSE.txt": "/KanyeQuotes/static/js/2.7bd6f9b2.chunk.js.LICENSE.txt"
+    "static/css/main.8723d9b7.chunk.css.map": "/KanyeQuotes/static/css/main.8723d9b7.chunk.css.map",
+    "static/js/2.96c25410.chunk.js.LICENSE.txt": "/KanyeQuotes/static/js/2.96c25410.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/KanyeQuotes/static/media/wp2530395-kanye-west-2018-wallpapers.f1c3a2ad.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0b8336f.js",
-    "static/js/2.7bd6f9b2.chunk.js",
-    "static/css/main.bab0b925.chunk.css",
-    "static/js/main.e8cf85a7.chunk.js"
+    "static/js/runtime-main.15b38074.js",
+    "static/js/2.96c25410.chunk.js",
+    "static/css/main.8723d9b7.chunk.css",
+    "static/js/main.392b5d25.chunk.js"
   ]
 }
