@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/KanyeQuotes/static/css/main.8723d9b7.chunk.css",
-    "main.js": "/KanyeQuotes/static/js/main.392b5d25.chunk.js",
-    "main.js.map": "/KanyeQuotes/static/js/main.392b5d25.chunk.js.map",
+    "main.js": "/KanyeQuotes/static/js/main.d3568c9e.chunk.js",
+    "main.js.map": "/KanyeQuotes/static/js/main.d3568c9e.chunk.js.map",
     "runtime-main.js": "/KanyeQuotes/static/js/runtime-main.15b38074.js",
     "runtime-main.js.map": "/KanyeQuotes/static/js/runtime-main.15b38074.js.map",
-    "static/js/2.96c25410.chunk.js": "/KanyeQuotes/static/js/2.96c25410.chunk.js",
-    "static/js/2.96c25410.chunk.js.map": "/KanyeQuotes/static/js/2.96c25410.chunk.js.map",
+    "static/js/2.74a3947a.chunk.js": "/KanyeQuotes/static/js/2.74a3947a.chunk.js",
+    "static/js/2.74a3947a.chunk.js.map": "/KanyeQuotes/static/js/2.74a3947a.chunk.js.map",
     "static/js/3.1a76a137.chunk.js": "/KanyeQuotes/static/js/3.1a76a137.chunk.js",
     "static/js/3.1a76a137.chunk.js.map": "/KanyeQuotes/static/js/3.1a76a137.chunk.js.map",
     "index.html": "/KanyeQuotes/index.html",
     "static/css/main.8723d9b7.chunk.css.map": "/KanyeQuotes/static/css/main.8723d9b7.chunk.css.map",
-    "static/js/2.96c25410.chunk.js.LICENSE.txt": "/KanyeQuotes/static/js/2.96c25410.chunk.js.LICENSE.txt",
+    "static/js/2.74a3947a.chunk.js.LICENSE.txt": "/KanyeQuotes/static/js/2.74a3947a.chunk.js.LICENSE.txt",
     "static/media/App.css": "/KanyeQuotes/static/media/wp2530395-kanye-west-2018-wallpapers.f1c3a2ad.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.15b38074.js",
-    "static/js/2.96c25410.chunk.js",
+    "static/js/2.74a3947a.chunk.js",
     "static/css/main.8723d9b7.chunk.css",
-    "static/js/main.392b5d25.chunk.js"
+    "static/js/main.d3568c9e.chunk.js"
   ]
 }
